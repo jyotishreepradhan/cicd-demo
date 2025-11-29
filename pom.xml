@@ -41,7 +41,7 @@
 				      <workers>${workers}</workers>
 				      <workerType>${workerType}</workerType>
 				      <properties>
-				        <key>value</key>
+				        <Note>	Hello There!!!</Note>
 				      </properties>
 				    </cloudHubDeployment>
 		  </configuration>
